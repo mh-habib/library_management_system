@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Book 1",
+        "author": "Author 1",
+        "isbn": 38529,
+        "year": 2014,
+        "price": 450,
+        "quantity": 9,
+        "bookAddedAt": "11-12-2024 22:06:44",
+        "bookLastUpdatedAt": "13-12-2024 07:36:10"
+    },
+    {
+        "title": "Book 2",
+        "author": "Author 2",
+        "isbn": 10187,
+        "year": 2016,
+        "price": 520,
+        "quantity": 9,
+        "bookAddedAt": "12-12-2024 22:35:41",
+        "bookLastUpdatedAt": "13-12-2024 07:38:14"
+    },
+    {
+        "title": "Book 3",
+        "author": "Author 3",
+        "isbn": 71417,
+        "year": 2015,
+        "price": 230,
+        "quantity": 10,
+        "bookAddedAt": "13-12-2024 07:34:50",
+        "bookLastUpdatedAt": ""
+    }
+]

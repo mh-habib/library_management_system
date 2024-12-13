@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Salam",
+        "phone": "01245632545",
+        "b_title": "Book 1",
+        "return_date": "23-12-2024"
+    },
+    {
+        "name": "Tinni",
+        "phone": "01254788563",
+        "b_title": "Book 2",
+        "return_date": "23-12-2024"
+    }
+]
